@@ -38,9 +38,11 @@ If only we had animations for the character... and a better glider model (*no! t
 ![image](https://user-images.githubusercontent.com/18000205/222749211-e5372f31-b510-4e0b-902f-ec6fdc1e69ad.png)
 
 JENGA! But in UE5.
-Grab physics cubes with **E** and move the camera around to place them, its that simple!
 
-But, a more precise placement system will be needed to build structures, so maybe a system like Magnesis in BOTW could work well.
+Grab physics cubes with **E** and move the camera around to place them, its that simple!
+As implemented in the demo, this can create some fun puzzles to solve for the player!
+
+But, a more precise placement system will be needed to build structures and solve more complicated puzzles, so maybe a system like Magnesis in BOTW could work well.
 
 *Time spent to develop: 1 Hour*
 
@@ -80,7 +82,8 @@ A real dialog system would use DataTables and such but this was just for fun. :)
 ## Sound Effects
 ![image](https://user-images.githubusercontent.com/18000205/222747737-8fa23f82-94c7-4322-b7a6-a2317a632706.png)
 
-Made with MetaSounds, these effects are triggered from the player's *AudioComponent*
+Made with MetaSounds, these effects are triggered from the player's *AudioComponent*.
+Sound effects really makes a game feel alive!
 
 *Time spent to develop: 20 Minutes*
 
@@ -89,4 +92,8 @@ Made with MetaSounds, these effects are triggered from the player's *AudioCompon
 ## BGM
 ![image](https://user-images.githubusercontent.com/18000205/222748045-c73944fa-51e5-48e2-8158-36475630d145.png)
 
-*Time spent to develop: 10 Seconds* XD
+A good OST really helps make a game interesting and lively.
+
+Music credit: https://www.youtube.com/watch?v=UYYk-ywAf2w
+
+*Time spent to develop: 10 Seconds* (Drag and drop) XD
