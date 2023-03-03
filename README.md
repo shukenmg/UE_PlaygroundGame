@@ -93,7 +93,7 @@ Sound effects really makes a game feel alive!
 ## BGM
 ![image](https://user-images.githubusercontent.com/18000205/222748045-c73944fa-51e5-48e2-8158-36475630d145.png)
 
-A good OST really helps make a game interesting and lively.
+A good OST can help make a game interesting and lively, so I added a lively and funny music ;)
 
 Music credit: https://www.youtube.com/watch?v=UYYk-ywAf2w
 
