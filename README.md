@@ -83,6 +83,7 @@ A real dialog system would use DataTables and such but this was just for fun. :)
 ![image](https://user-images.githubusercontent.com/18000205/222747737-8fa23f82-94c7-4322-b7a6-a2317a632706.png)
 
 Made with MetaSounds, these effects are triggered from the player's *AudioComponent*.
+
 Sound effects really makes a game feel alive!
 
 *Time spent to develop: 20 Minutes*
