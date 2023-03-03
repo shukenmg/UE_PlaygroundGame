@@ -17,7 +17,7 @@
 
 This was simple to create and makes gameplay more dynamic for players.
 
-*Time spent to develop: 10 Minutes*
+*Time spent to develop: 20 Minutes*
 
 
 
@@ -28,7 +28,7 @@ Inspired by BOTW's paraglider, the glider slows the player down and helps them t
 
 If only we had animations for the character... and a better glider model (*no! this glider model is beautiful!* XD)
 
-*Time spent to develop: 20 Minutes*
+*Time spent to develop: 30 Minutes*
 
 
 
@@ -42,7 +42,7 @@ Grab physics cubes with **E** and move the camera around to place them, its that
 
 But, a more precise placement system will be needed to build structures, so maybe a system like Magnesis in BOTW could work well.
 
-*Time spent to develop: 30 Minutes*
+*Time spent to develop: 1 Hour*
 
 
 
@@ -73,7 +73,7 @@ When the text is modified, the widget is updated with new text.
 
 A real dialog system would use DataTables and such but this was just for fun. :)
 
-*Time spent to develop: 20 Minutes*
+*Time spent to develop: 30 Minutes*
 
 
 
@@ -82,7 +82,7 @@ A real dialog system would use DataTables and such but this was just for fun. :)
 
 Made with MetaSounds, these effects are triggered from the player's *AudioComponent*
 
-*Time spent to develop: 5 Minutes*
+*Time spent to develop: 20 Minutes*
 
 
 
